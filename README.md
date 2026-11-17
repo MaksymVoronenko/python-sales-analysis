@@ -6,7 +6,7 @@ An exploratory analysis of order data enriched with country and product informat
 
 **Tools:** Python, pandas, Matplotlib, Seaborn, Google Colab.
 
-[View the notebook](sales_analysis.ipynb) · [Original Colab notebook](https://colab.research.google.com/drive/1GwCl7t_nFCVcWKwZcruuPjmrOWuNM9pp)
+[View the notebook](Python_for_DA_Module_Task_EN.ipynb) · [Original Colab notebook](https://colab.research.google.com/drive/1GwCl7t_nFCVcWKwZcruuPjmrOWuNM9pp)
 
 ## Analysis Workflow
 
